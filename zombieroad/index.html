@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Zombie Road</title>
+<script src="/JS/cdn-resilient.js"></script>
+<style>html,body{margin:0;padding:0;width:100%;height:100%;overflow:hidden;background:#000;}#unity-canvas{width:100%;height:100%;}</style>
+</head>
+<body>
+<div id="unity-container"><canvas id="unity-canvas"></canvas></div>
+<script>
+const buildUrl = "https://cdn.jsdelivr.net/gh/dem-google-usa/userconetn@main/Build";
+const config = {
+  dataUrl: buildUrl + "/ec6245a615fb70dd75120c0410fa20d4.data.unityweb",
+  frameworkUrl: buildUrl + "/96bd8aea39332cc87ed68099a2f6a038.framework.js.unityweb",
+  codeUrl: buildUrl + "/224f969d7232878c58a25d91697031f7.wasm.unityweb",
+  streamingAssetsUrl: "StreamingAssets",
+  companyName: "SquareDino",
+  productName: "Road Chase Shooter",
+  productVersion: "1.5.4"
+};
+const canvas = document.querySelector("#unity-canvas");
+const script = document.createElement("script");
+script.src = buildUrl + "/9853637125e801e9aae48e78dbbdcfca.loader.js";
+script.onload = () => {
+  createUnityInstance(canvas, config, (p) => {}).then(u => { window.unityInstance = u; });
+};
+document.body.appendChild(script);
+</script>
+</body>
+</html>
