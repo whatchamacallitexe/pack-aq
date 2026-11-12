@@ -1,0 +1,21 @@
+FILE xevious: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE xevious: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@dc9855e2508073142d43f45134d885c8662a428e/Xevious%20-%20The%20Avenger%20(USA).zip -> assets/cdn/f7113306-Xevious_-_The_Avenger_USA_.zip
+FILE yarsrevenge: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE yoshisstrangequest: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@a818bc35cc56ab319dc858976221463dd1a2d5d2/Super%20Mario%20World%20(USA)%20(patched)%20(2).sfc -> assets/cdn/5b7e301f-Super_Mario_World_USA_patched_2_.sfc
+FILE yoshisstrangequest: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE youarelucky: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE youarelucky: https://cdn.jsdelivr.net/gh/jackilyna/laravel@7898337fc98a1ec113909211937970896e049dc4/storage/framework/you-al.swf -> assets/cdn/8d941076-you-al.swf
+BASE OK bubbls/UGS-Assets@20f250e9a0681dfb9d75b995ffdc6ab33151345c/you vs 100 skibidi -> youvs100skibidi
+BASE REWRITE youvs100skibidi
+BASE OK genizy/web-port@main/yume-nikki -> yumenikki
+BASE REWRITE yumenikki
+FILE zelda2thelegendoflink: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@d9b4b1c202fd481690d67373ea7c7b91bddff189/Zelda%20II%20-%20The%20Adventure%20of%20Link%20(USA).zip -> assets/cdn/5fb67467-Zelda_II_-_The_Adventure_of_Link_USA_.zip
+FILE zelda2thelegendoflink: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE zombieexploder: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE zombieexploder: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@9ddcba9bd324c61c3e9170a46445a0f3b8f301d3/zombieexploder.swf -> assets/cdn/fd185b97-zombieexploder.swf
+FILE zombopaclypse2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE zombotron: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE zombotron: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@ebf0dadec4cdec67bac45ed43c8e3a3003640955/zombotron-12000.swf -> assets/cdn/be813143-zombotron-12000.swf
+FILE zrist: https://cdn.jsdelivr.net/gh/bubbls/ruffle@ebc504a7c93b0354c4ede41286251533238d4b11/zrist.js -> assets/cdn/8f19d9c8-zrist.js
+FILE zuma: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE zuma: https://cdn.jsdelivr.net/gh/nurimoores/clawapps@b5c6b5eaab82a36a61ff69666b62307e1984cb20/notebooks/classic/zuma.swf -> assets/cdn/a4a78167-zuma.swf
